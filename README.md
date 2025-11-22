@@ -101,6 +101,8 @@ npm start
 ### 🖼️ Create User Modal
 
 <img width="1890" height="870" alt="Screenshot 2025-11-22 141409" src="https://github.com/user-attachments/assets/d44e85ab-e21a-4ed0-af10-bcf866695443" />
+<img width="1882" height="186" alt="Screenshot 2025-11-22 141843" src="https://github.com/user-attachments/assets/e0ec9833-b73a-4fe7-a9e8-4e4ebc5c18a6" />
+
 
 
 ### 🖼️ Edit User Modal
