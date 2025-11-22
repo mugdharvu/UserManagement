@@ -95,7 +95,8 @@ npm start
 
 ### 🖼️ Home Page (Users List)
 
-![Users List](./screenshots/users-list.png)
+<img width="1871" height="883" alt="Screenshot 2025-11-22 141113" src="https://github.com/user-attachments/assets/26426a3f-6f79-4837-8f15-54fed8c0e705" />
+
 
 ### 🖼️ Create User Modal
 
@@ -123,6 +124,3 @@ modify.
 
 ------------------------------------------------------------------------
 
-## 📝 License
-
-This project is **open source** and available under the MIT License.
