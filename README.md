@@ -100,11 +100,19 @@ npm start
 
 ### 🖼️ Create User Modal
 
-![Create Modal](./screenshots/create-user.png)
+<img width="1890" height="870" alt="Screenshot 2025-11-22 141409" src="https://github.com/user-attachments/assets/d44e85ab-e21a-4ed0-af10-bcf866695443" />
+
 
 ### 🖼️ Edit User Modal
 
-![Edit Modal](./screenshots/edit-user.png)
+<img width="1869" height="455" alt="Screenshot 2025-11-22 141551" src="https://github.com/user-attachments/assets/98555167-40b0-4ca5-a77a-32f30b6d9802" />
+
+<img width="1884" height="834" alt="Screenshot 2025-11-22 141602" src="https://github.com/user-attachments/assets/b959cfdd-0344-48f9-ab30-988cfa7be989" />
+
+<img width="1888" height="462" alt="Screenshot 2025-11-22 141618" src="https://github.com/user-attachments/assets/5cbeb7bc-457c-488a-8d2d-251110c01371" />
+
+
+
 
 ------------------------------------------------------------------------
 
